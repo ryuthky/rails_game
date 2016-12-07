@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  pots_date: 2016-12-07 06:07:50
+  is_public: false
+  user_id: 
+
+two:
+  title: MyString
+  pots_date: 2016-12-07 06:07:50
+  is_public: false
+  user_id: 
